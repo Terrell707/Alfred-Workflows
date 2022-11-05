@@ -29,3 +29,11 @@ While Finder is open, simply make sure the item you want to move is selected, th
 Optionally, you can set hotkeys in the workflow to each of the above items.
 
 [Download - Move Files/Folders]: https://github.com/Terrell707/Alfred-Workflows/raw/main/workflows/Move%20Files:Folders.alfredworkflow
+
+## Pocket
+
+Pocket is a workflow that makes moving and actioning files a breeze, no matter how many files you're dealing with and where they're located.
+
+To get started, set a hotkey to store your items. The workflow also has a file action configured so you can simply use the power of Alfred's File/Universal Actions and simply select "Pocket Files/Folders".
+
+You will also need a hotkey for moving the currently pocketed files/folders to the frontmost Finder path, and/or a hotkey to action the items in Alfred. When you're ready to action these files, simply press the hotkey you configured.
